@@ -1,0 +1,23 @@
+{
+    "name": "chaoswd/database_controller",
+    "description": "Database Controller for easy access, queryies, and prepared executions.",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "ChaosWD\\Controllers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordan Gerber",
+            "email": "jordangerber@gmail.com"
+        },
+        {
+            "name": "Chaos Web Development",
+            "email": "jordan@chaosweb.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
